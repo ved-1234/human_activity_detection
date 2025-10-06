@@ -1,0 +1,13 @@
+-i https://pypi.org/simple
+Flask==2.2.5
+Flask-Bootstrap==3.3.7.1
+Flask-Uploads==0.2.1
+numpy==1.26.0
+opencv-python==4.8.1.78
+pytorch_lightning==2.2.1
+torch==2.2.2
+torchvision==0.17.2
+torchtext==0.17.2
+pyyaml==6.0.2
+Werkzeug==2.2.3
+
