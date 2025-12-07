@@ -8,7 +8,9 @@ cd human_activity_detection
 
 2️⃣ Create a virtual environment 
 python -m venv venv
+
 source venv/bin/activate   # Linux / Mac
+
 venv\Scripts\activate      # Windows
 
 3️⃣ Install dependencies
