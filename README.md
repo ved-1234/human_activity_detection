@@ -1,5 +1,7 @@
 ⚙️ Installation & Setup
+
 1️⃣ Clone the repository
+
 git clone https://github.com/ved-1234/human_activity_detection.git
 
 cd human_activity_detection
